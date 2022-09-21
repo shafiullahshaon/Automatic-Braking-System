@@ -12,12 +12,25 @@ Our project is automatic Braking System for vehicle to reduce accident rate. whe
 
 Tools List:
 Hardware : 
-•	Micro-controller (ARDUINO-UNO); 
-•	Gear Motor & Motor Driver;
-•	7805-Voltage Regulator;
-•	Battery & Charger;
-•	Ultra-sonic Sensor etc. 
-
+•	Arduino Mega 
+•	Power Supply (19V/3.42A) 
+•	3 Pin AC Connector 
+•	4 Volt Battery 4 Set
+•	Gear Motor (Yellow) 2 Set
+•	Wheel 2 Set + Ball Custer 
+•	Motor Driver (L293D) 
+•	Buzzer 
+•	Servo Motor 2 Set
+•	Ultra-Sonic Sensor 2 Set
+•	Bluetooth Module HC-05
+•	(M-F)+(M-M)+(F-F) Jumper 
+•	7805 Voltage Regulator 
+•	7808 Voltage Regulator 
+•	2 Pin Switch 2 Set
+•	DC Connector 
+•	Resistor 10K + 1K
+•	LED Bulb Green + Red
+ 
 Software :
 •	Arduino 1.8.1
 
@@ -30,11 +43,6 @@ This project use two mode:
 
 •	Automatic : Sometimes driver can’t break instantly. When this system work automatically.
 •	Bluetooth : Bluetooth means automatic driver/manual mode.
-
-
-Flowchart : xxxxx
-
-Comparism : xxxxx
 
 
 Application : 
